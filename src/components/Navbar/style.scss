@@ -1,0 +1,33 @@
+.st{
+    opacity: 0;
+}
+
+.container{
+    background-color: #0B0B0B;
+    color: #e6e6e6;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+
+    h2 a{
+        color: #e6e6e6;
+        text-decoration: none;
+        padding-left: 10px;
+        font-weight: 400;
+    }
+    li{
+        display: inline;
+        text-decoration: none;
+        padding: 0 50px;
+        font-weight: 100;
+
+        a{
+            text-decoration: none;
+            color: #e6e6e6;
+
+        }
+        
+        
+    }
+
+}

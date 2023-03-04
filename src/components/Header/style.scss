@@ -1,0 +1,43 @@
+.header{
+    background-color: #0B0B0B;
+    color: #e6e6e6;
+    height: 95vh;
+    .sp{
+        position: absolute;
+        top: 5px;
+        z-index: 6;
+    }
+
+    .letter{
+        font-weight: 600;
+    }
+    .s{
+        position: relative;
+        left: 36rem;
+        top: 150px;
+        font-size: 146px;
+        color: #c5c5c5;
+    }
+    .l{
+        position: relative;
+        left:47rem;
+        bottom: 45px;
+        font-size: 190px;
+        z-index: 7;
+    }
+    .u{
+        position: relative;
+        left:37rem;
+        bottom: 65px;
+        font-size: 170px;
+        z-index: 7;
+    }
+    .p{
+        position: relative;
+        left: 48rem;
+        bottom: 230px;
+        font-size: 126px;
+        color: #c5c5c5;
+
+    }
+}
