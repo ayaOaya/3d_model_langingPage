@@ -1,0 +1,47 @@
+.homepage{
+    height: 100%;
+
+    .h1{
+        padding: 155px 0;
+        margin-top: 60px;
+        text-align: center;
+        opacity: 0;
+    }
+   
+   
+    .parag1{
+        position: relative;
+        padding-top: 50px;
+        padding-left: 40px;
+        width: 40%;
+        line-height: 30px;
+        opacity:0;
+        z-index: 2;
+        
+    }
+    .parag2{
+        position: relative;
+        padding-top: 45px;
+        padding-left: 60rem;
+        width: 36%;
+        line-height: 32px;
+        opacity:0;
+        z-index: 2; 
+    }
+    .sp{
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        z-index: 1;
+        top: 120rem;
+    }
+    .parag3{
+        position: relative;
+        padding-top: 275px;
+        padding-left: 250px;
+        width: 60%;
+        text-align: center;
+        opacity:0;
+        z-index: 2; 
+    }
+}
