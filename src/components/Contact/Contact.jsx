@@ -9,13 +9,13 @@ export default function Contact() {
 
       <section>
         <h5>YOUR NAME</h5>
-        <input type="text"  required/>
+        <input type="text"  required placeholder='your name'/>
         <h5>YOUR LAST NAME</h5>
-        <input type="text"  required/>
+        <input type="text"  required placeholder='your las name'/>
         <h5>YOUR EMAIL</h5>
-        <input type="text"  required/>
+        <input type="text"  required placeholder='your email'/>
         <h5>YOUR MESSAGE</h5>
-        <input type="text" />
+        <input type="text" placeholder='your message' />
       </section>
     </div>
   )
